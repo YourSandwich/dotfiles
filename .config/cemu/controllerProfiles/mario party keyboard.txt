@@ -1,0 +1,30 @@
+[General]
+emulate = Wiimote
+api = Keyboard
+
+[Controller]
+rumble = 0
+leftRange = 1
+rightRange = 1
+leftDeadzone = 0.25
+rightDeadzone = 0.2
+buttonThreshold = 0.5
+1 = key_74
+2 = key_75
+3 = key_85
+4 = key_73
+5 = key_77
+6 = key_78
+7 = key_107
+8 = key_109
+9 = key_87
+10 = key_83
+11 = key_65
+12 = key_68
+13 = key_87
+14 = key_83
+15 = key_65
+16 = key_68
+17 = key_13
+nunchuck = 1
+motionPlus = 0
